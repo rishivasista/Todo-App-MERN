@@ -1,4 +1,4 @@
-# getir-fullstack-todo
+TodoAppMERN
 
 cd client
 npm i
